@@ -1,5 +1,8 @@
-Приложение:
+
 ![image](https://github.com/user-attachments/assets/3b9c1d70-3b51-4a1a-a360-193c8de7cdc7)
+
+
+
 Вводится файл со списком группы(расширение или .txt или .xml), при выборе .xml файла в RadioButton можно выбрать способ парсинга 
 В левом окне показывается список студентов
 ![image](https://github.com/user-attachments/assets/67d6d2a8-9940-48ed-b67d-451124e1f743)
